@@ -1,0 +1,23 @@
+# Kernel build
+driver/build/
+*.ko
+*.o
+*.mod
+*.mod.c
+*.symvers
+*.order
+
+# Device Tree compilado
+*.dtbo
+
+# Python
+__pycache__/
+*.pyc
+
+# Ejecutables
+console/ega_ctl
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
