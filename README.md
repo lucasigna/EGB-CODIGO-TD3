@@ -1,6 +1,6 @@
 # EGB - Técnicas Digitales III
 
-Proyecto correspondiente a la Entidad General B (EGB) de Técnicas Digitales III.
+Proyecto correspondiente a la Evaluación Globalizadora B (EGB) de Técnicas Digitales III.
 
 La EGB está implementada sobre una Raspberry Pi 4 con Linux y se comunica con la EGA mediante UART.
 
